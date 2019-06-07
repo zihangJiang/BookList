@@ -34,8 +34,6 @@
 
 [Functional Analysis(泛函分析)](https://item.jd.com/1245556866.html)
 
-[Functional Analysis(泛函分析)](https://item.jd.com/1245556866.html)
-
 [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 
 [Intro to Differentiable Manifolds(微分流形导论)](https://www.springer.com/kr/book/9780387954776)
