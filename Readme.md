@@ -2,10 +2,6 @@
 
 下面的书你们如果需要就联系我鸭，带不走了，希望送给你之后能好好对它们。坐标USTC东校区321楼，送出去的我就删掉啦(上面的图片仅供参考)。
 
-~~[Optimal transport(最优传输)](https://www.springer.com/gp/book/9783540710493)~~
-
-[Mathematical logic(数理逻辑)](https://www.springer.com/gp/book/9780387942582)
-
 [Algebra(代数)](https://www.springer.com/la/book/9780387905181)
 
 [基础拓扑学讲义](https://www.amazon.cn/dp/B00W76CZ1C)
@@ -13,8 +9,6 @@
 [实变函数论(第三版)](https://item.jd.com/12063386.html)
 
 [小波与傅里叶分析基础](https://item.jd.com/27426004763.html)
-
-[算法导论(第三版)](https://item.jd.com/11144230.html)
 
 [简明复分析(第二版)](https://item.jd.com/27252230740.html)
 
@@ -25,12 +19,6 @@
 [Methods in Nonlinear Analysis(非线性分析方法)](https://www.springer.com/la/book/9783540241331)
 
 [Discrete mathematics(离散数学)](https://www.springer.com/gp/book/9780387955841)
-
-[深度学习原理与tf实践](https://item.jd.com/12186034.html)
-
-[深度学习入门之pytorch](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
-
-~~[Deep Learning](https://www.deeplearningbook.org/)~~
 
 [Functional Analysis(泛函分析)](https://item.jd.com/1245556866.html)
 
