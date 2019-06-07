@@ -30,7 +30,7 @@
 
 [深度学习入门之pytorch](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
 
-[Deep Learning](https://www.deeplearningbook.org/)
+~~[Deep Learning](https://www.deeplearningbook.org/)~~
 
 [Functional Analysis(泛函分析)](https://item.jd.com/1245556866.html)
 
