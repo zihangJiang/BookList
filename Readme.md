@@ -1,3 +1,7 @@
+![](books.jpg)
+
+下面的书你们如果需要就联系我鸭，带不走了，希望送给你之后能好好对它们。坐标USTC东校区321楼。
+
 [Optimal transport(最优传输)](https://www.springer.com/gp/book/9783540710493)
 
 [Mathematical logic(数理逻辑)](https://www.springer.com/gp/book/9780387942582)
